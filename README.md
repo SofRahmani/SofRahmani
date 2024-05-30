@@ -13,7 +13,8 @@ Skills: React | Next JS | Typescript | TailwindCSS
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SofRahmani)](https://github.com/anuraghazra/github-readme-stats)
 
+![GitHub streak stats](https://streak-stats.demolab.com/?user=SofRahmani)  
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=SofRahmani&show_icons=true&count_private=true)  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=SofRahmani)  
 
