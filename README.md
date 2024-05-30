@@ -1,21 +1,19 @@
-# 👋 Hey, je suis Sofiane!
+### Hi there 👋, Sofiane Rahmani
+#### Frontend Developer Web
+![Frontend Developer Web](https://github.com/SofRahmani/portfolio/blob/master/public/card.jpg?raw=true)
 
-Je suis développeur web passionné avec une forte appétence en React, Next.js, TypeScript, et TailwindCSS. J'adore créer des applications web performantes et intuitives en utilisant les dernières technologies du web.
+My name is Sofiane Rahmani, with a background as an expert in medical management software. Today, as a self-taught frontend web developer, I specialize in creating modern and efficient web applications. Passionate about innovation and always eager to learn, I am committed to delivering high-quality web solutions to meet the specific needs of each project. Discover how I can turn your ideas into impressive digital realities.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SofRahmani)](https://github.com/anuraghazra/github-readme-stats)
+Skills: React | Next JS | Typescript | TailwindCSS
 
-## Compétences
-- Frontend: React, Next.js, TailwindCSS, HTML, CSS, JavaScript, TypeScript
-- Backend: Next JS, Prisma, API REST, Auth JS, Postgresql
-- Outils: Git, GitHub, Webpack, Vite
+- 📫 How to reach me: https://www.sofiane-rahmani.com/fr 
 
-## Projets notables
-- **My Docs** : Une documentation technique personnelle accessible à tous les développeurs web autodidactes ou simplement curieux.
-- **Letter or Number** : Une application simple permettant aux malvoyants de différencier les caractères les plus difficiles à distinguer.
 
-## À propos de moi
-Je suis toujours à la recherche de nouveaux défis et d'opportunités pour apprendre et grandir dans le domaine du développement web.
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SofRahmani)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sofiane-rahmani-9840a21a8/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://www.sofiane-rahmani.com/fr)  
 
-📫 Comment me contacter:
-- Directement depuis mon [portfolio](https://sofiane-rahmani.com)
-- Sur mon [LinkedIn](https://www.linkedin.com/in/sofiane-rahmani-9840a21a8/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SofRahmani)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=SofRahmani&show_icons=true&count_private=true)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=SofRahmani)  
+
